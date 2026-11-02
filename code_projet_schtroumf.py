@@ -1,7 +1,6 @@
 """LELEC2870 2026-2027 - Smurf heart-failure risk - Part 1 (linear baseline).
 
-Sources: 2026-2027 project guidelines; LELEC2870 Linear regression,
-Feature selection, Model selection slides.
+Sources: 2026-2027 project guidelines;
 
 Dependencies: Python >=3.10; numpy, pandas, scikit-learn, reportlab, pypdf.
 
