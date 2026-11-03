@@ -1,2 +1,5 @@
 /data_student/
 .DS_Store
+__pycache__
+y_pred.csv
+/resultats/
